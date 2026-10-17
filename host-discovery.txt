@@ -1,0 +1,4 @@
+# Nmap 7.99 scan initiated Sat Oct 17 18:09:49 2026 as: /usr/lib/nmap/nmap -sn -oN Recon/host-discovery.txt 10.48.144.123
+Nmap scan report for 10.48.144.123
+Host is up (0.026s latency).
+# Nmap done at Sat Oct 17 18:09:50 2026 -- 1 IP address (1 host up) scanned in 0.59 seconds
