@@ -1,0 +1,10 @@
+Project: Network VAPT Assessment
+Tester: Yogesh 
+Target: TRyhackme vulnerability room
+Target IP: 10.48.144.123
+Authorization: Training lab permission
+Assessment Type: Network reconnaissance and service assessment
+Tools: Nmap, Linux command-line utilities
+Restrictions: No testing outside the assigned lab scope
+Date: 17-10-2026
+
